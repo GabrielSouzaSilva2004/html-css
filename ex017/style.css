@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+body {
+    background-color: blueviolet;
+}
+
+#principal {
+    text-align: center;
+    background-color: aqua;
+}
+
+.prim {
+    text-align: center;
+}
+
+.sec {
+    padding: 5%;
+}

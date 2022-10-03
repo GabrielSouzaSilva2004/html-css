@@ -1,0 +1,31 @@
+body {
+    background-image: linear-gradient(to right, #012030,  #13678A, #45C4B0, #9AEBA3, #DAFDBA);
+
+}
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Times, serif, 'Arial Narrow', Arial, sans-serif, Helvetica, sans-serif;
+
+}
+
+main {
+    background-color: white;
+    padding: 10%;
+    width: 700px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #093041;
+}
+
+p {
+    text-align: justify;
+}
+
+h1 {
+    color: #45C4B0;
+    text-shadow: 1px 1px 2px #112c28;
+}
+
+h2 {
+    color: #13678A;
+}
